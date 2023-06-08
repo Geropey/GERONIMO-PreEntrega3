@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap") ;
+@import "contacto" ; 
+@import "nosotros" ;
+@import "preguntas" ;
+@import "productos" ;
+@import "index" ;
+@import "header" ;
+@import "footer" ;
+@mixin fade-in-animation {
+    @keyframes fade-in {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+  
+    animation-name: fade-in;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+  }
+  

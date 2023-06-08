@@ -1,0 +1,47 @@
+.presentacion{
+    text-align: center;
+}
+.text-index {
+    margin-top: 50px;
+    text-align: center;
+}
+.foto-nosotros{
+  width: 400px;
+  }
+  .logo-2{
+    width: 100px;
+  }
+  .presentacion{
+    height: 80vh;
+    width: 85vh;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-left: 20vw;
+  }
+  .ropa{
+    height: 80vh;
+    width: 85vh;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-left: 20vw;
+  }
+  .camisetas{
+    height: 80vh;
+    width: 85vh;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-left: 20vw;
+  }
+  .bg-img{
+    background-image: url(https://media.istockphoto.com/id/954319840/es/vector/textura-de-golf.jpg?s=170667a&w=0&k=20&c=uQIRh3_BA-CSMEwl_eYztgbsDkW2u2m7kxsgUbLIq9Q=);
+  }
+
+
+.foto-presentacion{
+    margin-left: 200px;
+    float: left;
+    margin-left: 10px;
+}
